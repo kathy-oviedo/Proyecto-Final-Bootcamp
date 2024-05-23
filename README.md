@@ -39,37 +39,8 @@ Finalmente se puede observar que las elecciones en los datos pasaron de ser inic
 
 ## Cruce de la información
 
- 2.Utilizar las bibliotecas de Integración de datos de diversas fuentes y formatos en los Dataset´s trabajados en el punto anterior 
-Realizar al menos un cruce entre dos Dataset´s (Pandas)
-Para llevar a cabo la integración de datos hice uso de otros 2 data sets, ya que los trabajados anteriormente no tenían nada en común. A continuación, se relaciona los data sets trabajados:
+Para llevar a cabo la integración de datos hice uso de otros 2 data sets, ya que los trabajados anteriormente no tenían nada en común. A continuación, se relaciona los data sets trabajados, los cuales igualmente fueron descargados de la base de datos wwww.datos.gov.co:
+
 1.	Estadísticas en educación en Colombia
 2.	Resultados nacionales saber 11 2019
-Procedí a realizar el cruce tras el cual dio como resultado la siguiente tabla, la cual unió los datos estadísticos educativos con los resultados de las pruebas saber pro con base en el departamento:
- 
-Tercer y cuarto Punto
- 3. Utilizar las bibliotecas de Análisis de series temporales 
-Realizar al menos 3 gráficos de la información contenida en los Dataset´s anteriores utilizando las bibliotecas vistas.
-Haciendo uso de la data set de “Encuesta de Salud, derechos sexuales y reproductivos” generé este gráfico:
- 
-Conclusiones:
-•	En el gráfico se puede observar que la mayoría de los encuestados no tiene información sobre embarazos adolescentes en su comunidad.
-•	Aproximadamente el 22% cree que solo uno de cada diez adolescentes ha experimentado un embarazo.
-•	Un 30% de los encuestados cree que más de dos de sus compañeros adolescentes han experimentado un embarazo.
-
-Luego, se hizo uso de otros de los data sets trabajados, en este caso el de tasas de Estadísticas en educación en Colombiama sobre el cual se generaron los siguientes gráficos:
-
- 
-Conclusiones:
-
-•	En el gráfico se puede observar que Bogotá para el año 2019 tuvo una tasa de matrícula consistentemente mayor que la de Antioquia.
-•	De igual manera también se puede observar que, antes del 2018, Bogotá tenía tasas de matrícula muy bajas respecto a Antioquia y que de alguna manera esto mejoró a partir de ese año, sería importante entrar a revisar, que causó ese aumento. 
-•	Para el año 2022 se ve que ambos lugares, presentan una tasa de matriculación muy cercana.
- 
-Conclusiones:
-•	Existe una correlación positiva entre la tasa de matrícula y la cobertura neta en Bogotá. Esto significa que a medida que aumenta la cobertura neta también aumenta la tasa de matrícula. Esto indica que existe una relación estrecha entre las dos variables.
-•	La tendencia es lineal, lo que significa que la relación entre las dos variables es constante.
-
-
-
-
-
+   
