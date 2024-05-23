@@ -33,6 +33,7 @@ Empiezo por ejecutar ‘Facet’ de la columna ‘Institución donde estudias’
 
 Generé re-clusters primero con el método de ‘Key Collision’, probando cada una de las funciones claves; con ‘Metaphone3’, ‘Levenshtein’ y por último con Vecinos cercanos.
 Finalmente se puede observar que las elecciones en los datos pasaron de ser inicialmente 88 a 47 con la limpieza que se le hizo a la información:
+
 ![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/43fe6877-9435-456d-a217-708796a8c9b0)
 ![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/86ee2aa2-ef46-4acf-8879-8add9154ba26)
 
