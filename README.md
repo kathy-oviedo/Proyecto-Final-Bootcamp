@@ -1,20 +1,4 @@
-
-
-Se descargaron datos de la pagina www.datos.gov.co, especificamente de estas fuentews:
-* X
-* x
-Posterior
-
-
-
-
-## Limpiexa con Openrefine
-
-
-
-## Cruce de datos
-
-
+## Descarga de los datos
 
 Primer Punto
 1.	Dataset´s utilizados (Datos Abiertos Colombia | Datos Abiertos Colombia) al menos 2 (que no sean repetidos)
@@ -23,7 +7,8 @@ Dataset 1
 
 Para el desarrollo del ejercicio hice uso de dos conjuntos de datos descargados de Datos Abiertos Colombia. 
 El primer conjunto de datos corresponde a Predios Titulados a nivel Nacional, el cual contiene la sumatoria de predios urbanos, rurales, fiscales y privados, saneados y/o titulados a nivel nacional, el cual se muestra a continuación:
- 
+
+## Limpieza de datos con Open Refine
 Revisando el conjunto de datos, no se observan inconsistencias en la información, el dataset está muy limpio, no tiene datos en blanco ni información mal digitada. Sin embargo, con el fin de hacer uso de la herramienta (Open Refine) decidí separar y quitar las horas de las fechas de reporte y fechas del título quedando como se muestra a continuación:
 •	Separando las columnas por delimitador “ “:
  
@@ -41,7 +26,7 @@ Empiezo por ejecutar ‘Facet’ de la columna ‘Institución donde estudias’
 Generé re-clusters primero con el método de ‘Key Collision’, probando cada una de las funciones claves; con ‘Metaphone3’, ‘Levenshtein’ y por último con Vecinos cercanos.
 Finalmente se puede observar que las elecciones en los datos pasaron de ser inicialmente 88 a 47 con la limpieza que se le hizo a la información:
   
-Segundo punto
+## Cruce de la información
 
  2.Utilizar las bibliotecas de Integración de datos de diversas fuentes y formatos en los Dataset´s trabajados en el punto anterior 
 Realizar al menos un cruce entre dos Dataset´s (Pandas)
