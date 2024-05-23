@@ -1,9 +1,5 @@
 ## Descarga de los datos
 
-1.	Dataset´s utilizados (Datos Abiertos Colombia | Datos Abiertos Colombia) al menos 2 (que no sean repetidos)
-•	Aplicar Métodos de recolección y limpieza de datos (OpenRefine)
-Dataset 1
-
 Para el desarrollo del ejercicio hice uso de dos conjuntos de datos descargados de Datos Abiertos Colombia. 
 El primer conjunto de datos corresponde a Predios Titulados a nivel Nacional, el cual contiene la sumatoria de predios urbanos, rurales, fiscales y privados, saneados y/o titulados a nivel nacional, el cual se muestra a continuación:
 
