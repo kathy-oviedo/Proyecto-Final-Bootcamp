@@ -7,6 +7,8 @@ Dataset 1
 
 Para el desarrollo del ejercicio hice uso de dos conjuntos de datos descargados de Datos Abiertos Colombia. 
 El primer conjunto de datos corresponde a Predios Titulados a nivel Nacional, el cual contiene la sumatoria de predios urbanos, rurales, fiscales y privados, saneados y/o titulados a nivel nacional, el cual se muestra a continuación:
+![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/7195121e-27c0-4b18-8cc8-87334f0cacd0)
+
 
 ## Limpieza de datos con Open Refine
 Revisando el conjunto de datos, no se observan inconsistencias en la información, el dataset está muy limpio, no tiene datos en blanco ni información mal digitada. Sin embargo, con el fin de hacer uso de la herramienta (Open Refine) decidí separar y quitar las horas de las fechas de reporte y fechas del título quedando como se muestra a continuación:
