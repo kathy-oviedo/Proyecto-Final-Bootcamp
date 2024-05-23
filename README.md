@@ -1,6 +1,5 @@
 ## Descarga de los datos
 
-Primer Punto
 1.	Dataset´s utilizados (Datos Abiertos Colombia | Datos Abiertos Colombia) al menos 2 (que no sean repetidos)
 •	Aplicar Métodos de recolección y limpieza de datos (OpenRefine)
 Dataset 1
