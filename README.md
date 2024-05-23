@@ -24,6 +24,7 @@ El segundo conjunto de datos corresponde a una Encuesta de Salud, derechos sexua
  ![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/c6326dff-402c-448f-a06a-6a7340b93da2)
 
 Al revisar el data set, se observa que tiene varios errores de digitación:
+
 ![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/36f53761-016a-4b83-88bf-60038a2538fa)
 ![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/f2e98cde-c3e9-4372-90b1-d12f2a516f8d)
 
