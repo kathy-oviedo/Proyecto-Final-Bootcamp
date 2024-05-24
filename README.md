@@ -40,20 +40,18 @@ Para llevar a cabo la integración de datos hice uso de otros 2 data sets, ya qu
 1.	Estadísticas en educación en Colombia
 2.	Resultados nacionales saber 11 2019
 
-## Limpieza en Power BI
+## Visualización en Power BI
+
+Para visualizar los datos primero procedimos a hacer una pequeña limpieza de errores de valores vacíos o guiones:
 
 ![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/a8c6571c-d14d-4e11-807d-78cc69d9a90a)
 
 ![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/85281d44-ab38-4801-8004-f80f2f2fb3a7)
 
-Estadístias![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/d7a73116-eada-469f-85af-9df0d68995c9)
-
 
 ![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/613d5c47-a9b5-4e0e-8f20-bb476e12d011)
 
 Link del dashboard:
-
-<iframe title="Proyecto_Final" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmUxYjMxN2MtNjhhNi00ODdkLWFmNWQtMjUyYmQ5NzQ5NzkwIiwidCI6ImFjYTUxNjMxLTAwZmUtNDkwZC05MWFiLTE2M2VmODcyNjBlZSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 
 https://app.powerbi.com/view?r=eyJrIjoiNmUxYjMxN2MtNjhhNi00ODdkLWFmNWQtMjUyYmQ5NzQ5NzkwIiwidCI6ImFjYTUxNjMxLTAwZmUtNDkwZC05MWFiLTE2M2VmODcyNjBlZSIsImMiOjR9
 
