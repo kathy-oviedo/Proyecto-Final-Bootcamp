@@ -51,3 +51,7 @@ Estadístias![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/ass
 
 ![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/613d5c47-a9b5-4e0e-8f20-bb476e12d011)
 
+Link del dashboard:
+
+<iframe title="Proyecto_Final" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmUxYjMxN2MtNjhhNi00ODdkLWFmNWQtMjUyYmQ5NzQ5NzkwIiwidCI6ImFjYTUxNjMxLTAwZmUtNDkwZC05MWFiLTE2M2VmODcyNjBlZSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
