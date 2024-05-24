@@ -48,3 +48,6 @@ Para llevar a cabo la integración de datos hice uso de otros 2 data sets, ya qu
 
 Estadístias![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/d7a73116-eada-469f-85af-9df0d68995c9)
 
+
+![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/613d5c47-a9b5-4e0e-8f20-bb476e12d011)
+
