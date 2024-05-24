@@ -39,4 +39,12 @@ Para llevar a cabo la integración de datos hice uso de otros 2 data sets, ya qu
 
 1.	Estadísticas en educación en Colombia
 2.	Resultados nacionales saber 11 2019
-   
+
+## Limpieza en Power BI
+
+![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/a8c6571c-d14d-4e11-807d-78cc69d9a90a)
+
+![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/85281d44-ab38-4801-8004-f80f2f2fb3a7)
+
+Estadístias![image](https://github.com/kathy-oviedo/Proyecto-Final-Bootcamp/assets/161944778/d7a73116-eada-469f-85af-9df0d68995c9)
+
