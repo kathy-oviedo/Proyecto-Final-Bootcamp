@@ -55,3 +55,6 @@ Link del dashboard:
 
 <iframe title="Proyecto_Final" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmUxYjMxN2MtNjhhNi00ODdkLWFmNWQtMjUyYmQ5NzQ5NzkwIiwidCI6ImFjYTUxNjMxLTAwZmUtNDkwZC05MWFiLTE2M2VmODcyNjBlZSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 
+https://app.powerbi.com/view?r=eyJrIjoiNmUxYjMxN2MtNjhhNi00ODdkLWFmNWQtMjUyYmQ5NzQ5NzkwIiwidCI6ImFjYTUxNjMxLTAwZmUtNDkwZC05MWFiLTE2M2VmODcyNjBlZSIsImMiOjR9
+
+
